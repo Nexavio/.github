@@ -10,7 +10,7 @@
   <strong>Creative Tech Solutions for a Smarter Digital World</strong>
 </p>
 
----
+
 
 ## 🚀 About Us
 
@@ -24,7 +24,7 @@ We specialize in:
 
 We believe in clean code, creative problem-solving, and future-driven digital architecture.
 
----
+
 
 ## 📁 Our Projects
 
@@ -37,7 +37,7 @@ Explore our active and upcoming repositories:
 
 Stay tuned for more 👀
 
----
+
 
 ## 🤝 Get Involved
 
@@ -47,7 +47,6 @@ Interested in collaborating or using our tools?
 - Fork our projects and start building
 - Reach out via discussions or GitHub profiles
 
----
 
 ## 📫 Contact Us
 
@@ -55,7 +54,7 @@ You can reach us at:
 📧 **nexavioGroup@gmail.com**  
 🌐 [www.nexavio.ir](https://www.nexavio.ir)
 
----
+
 
 <p align="center">
   <em>Empowering ideas through smart technology – Nexavio</em>
