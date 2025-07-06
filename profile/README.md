@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=200&duration=2500&pause=1000&color=E61DF7&center=true&vCenter=true&width=500&height=71&lines=Yoo+WhatsUp+Shawty" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=200&duration=2500&pause=1000&color=E61DF7&center=true&vCenter=true&width=500&height=71&lines=Yoo+WhatsUp+Shawty" alt="Typing SVG" />
 
 <h1 align="center">
   <span style="color:#00bcd4;">Nexa</span><span style="color:#ff9800;">vio</span>
